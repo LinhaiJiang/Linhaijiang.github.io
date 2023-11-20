@@ -102,6 +102,16 @@ connekt.ai, 2852419, RESELLER
 xandr.com, 13058, RESELLER
 inmobi.com,e571e03c05664d25becfd1174c7e0dbd,RESELLER,83e75a7ae333ca9d
 
+connekt.ai, 5585919044, RESELLER
+pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
+rhebus.works, 3897070072, RESELLER
+risecodes.com, 6486c6155b231000010244b0, RESELLER
+rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807
+sharethrough.com, bXzzb1bR, RESELLER, d53b998a7bd4ecd2
+thebrave.io, 1234678, RESELLER, c25b2154543746ac
+thunder-monetize.com, 3962740416, RESELLER
+video.unrulymedia.com, 995298565, RESELLER
+xandr.com, 14082, RESELLER
 152media.info, 152M324, RESELLER
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
@@ -257,3 +267,13 @@ yandex.com, 40427798, RESELLER
 yandex.com, 95746987, RESELLER
 yandex.com, 97539269, RESELLER
 yeahmobi.com, 5135195, RESELLER
+
+applovin.com, 88177352a6c1b3808f9101200359e8fe, DIRECT
+loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
+xandr.com, 13799, RESELLER
+media.net, 8CUD06Z68, RESELLER
