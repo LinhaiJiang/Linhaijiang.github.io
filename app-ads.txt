@@ -128,6 +128,7 @@ rubiconproject.com, 24170, RESELLER, 0bfd66d529a55807
 adsbea.com,17,RESELLER
 
 
+unity.com, 4968954, DIRECT, 96cabb5fbdde37a7
 connekt.ai, 5585919044, RESELLER
 pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
 rhebus.works, 3897070072, RESELLER
@@ -271,7 +272,6 @@ thebrave.io, 9840732, RESELLER, c25b2154543746ac
 themediagrid.com, FH3TKJ, RESELLER, 35d5010d7789b49d
 themediagrid.com, SWH94X, RESELLER, 35d5010d7789b49d
 triplelift.com, 13883, RESELLER, 6c33edb13117fd86
-unity.com, 4968954, DIRECT, 96cabb5fbdde37a7
 velismedia.com, 1137, RESELLER
 velismedia.com, 725, RESELLER
 video.unrulymedia.com, 123476257, RESELLER
@@ -312,7 +312,16 @@ toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
 tredio.io, 357a6fdf7642bf815a88822c447d9dc433546, RESELLER
 video.unrulymedia.com, 819070080, RESELLER
 vidoomy.com, 7646534, RESELLER
-
+betweendigital.com, 45827, RESELLER
+contextweb.com, 159668, RESELLER, 5d62403b186f2ace
+contextweb.com, 562827, RESELLER, 89ff185a4c4e857c
+improvedigital, 2343, RESELLER
+kidoz.net, 14260, RESELLER, a109366414b7335e
+rubiconproject.com, 26386, RESELLER, 0bfd66d529a55807
+smaato.com, 1100056144, RESELLER, 07bcf65f187117b4
+video.unrulymedia.com, 392157850, RESELLER
+xandr.com, 15769, RESELLER
+zmaticoo.com, 5135195, RESELLER
 
 vungle.com,6522858ab3ff7d001153a848,DIRECT,c107d686becd2d77
 152media.info,152M312,RESELLER
